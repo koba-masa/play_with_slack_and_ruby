@@ -101,3 +101,5 @@ end
 
 require 'bundler/setup'
 Bundler.require(*[:default, :test])
+
+Config.load_and_set_settings(File.expand_path('../config/test.yml', __FILE__))
