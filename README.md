@@ -1,2 +1,2 @@
-# slack_with_ruby
-RubyからSlak通知を行う
+# play_with_slack_and_ruby
+RubyからSlack通知を行う
